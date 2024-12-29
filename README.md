@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">Tech Enthusiast | Programmer | Visionary Entrepreneur | AI/ML Explorer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "470" height = "400" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xionvolt&label=Profile%20views&color=0e75b6&style=flat" alt="xionvolt" /> </p>
 
 - 🌱 I’m currently learning **more Js Frameworks and About Ai/Ml**
 
