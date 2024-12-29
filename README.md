@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xion_volt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xion_volt" height="30" width="40" /></a>
-<a href="https://instagram.com/xion._.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xion._.69" height="30" width="40" /></a>
+<a href="https://instagram.com/xion._.69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xion._.69" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xionvolt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xionvolt7" height="30" width="40" /></a>
 <a href="https://discord.gg/YXaGVnWXDx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YXaGVnWXDx" height="30" width="40" /></a>
 </p>
