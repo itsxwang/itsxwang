@@ -1,7 +1,7 @@
 ![logo](https://github.com/XionVolt/XionVolt/blob/main/Five%20minutes%20of%20silence%2C%20Hangmoon%20Alexander%20Komarov%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">A passionate tech enthusiast, programmer, and aspiring entrepreneur 🚀</h3>
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRhbzBiZ2lwaGQ1eXpxYWd1aXJiMG53dzA1c2J5OWk0Z253d2VrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "550" height = "400" />
 
 - 🌱 I’m currently learning **more Js Frameworks and About Ai/Ml**
 
