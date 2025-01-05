@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/XionVolt](https://github.com/XionVolt)
 
-- 💬 Ask me about **Python , JavaScript , Html , Css & Much more...**
+- 💬 Ask me about **Python , JavaScript , Html , Css , Git & Much more...**
 
 - 📫 How to reach me **vedansh36325@gmail.com**
 
