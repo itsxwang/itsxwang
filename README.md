@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python , JavaScript , Html , Css , Git & Much more...**
 
-- 📫 How to reach me **vedansh36325@gmail.com**
+- 📫 How to reach me **xion36325@gmail.com**
 
 - ⚡ Fun fact **I have so many crazy ideas, I might need a second brain to keep up with them! 🤯💡**
 
