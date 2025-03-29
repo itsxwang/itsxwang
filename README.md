@@ -1,4 +1,4 @@
-![logo]([https://github.com/XionVolt/XionVolt/blob/main/Five%20minutes%20of%20silence%2C%20Hangmoon%20Alexander%20Komarov%20(1).jpeg](https://github.com/XionVolt/XionVolt/blob/main/1be5ccf16fe97fa2ec5a4baa23076037.jpg))
+![logo](https://github.com/XionVolt/XionVolt/blob/main/Five%20minutes%20of%20silence%2C%20Hangmoon%20Alexander%20Komarov%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">Tech Enthusiast | Programmer | Emerging Entrepreneur | AI/ML Explorer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "350" height = "400" />
