@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/XionVolt/XionVolt/blob/main/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" height = "407" />
+<img align="right" src="https://github.com/XionVolt/XionVolt/blob/main/ced84adf18ce017d24cf12428d198ed5.jpg" height = "320" />
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">Tech Enthusiast | Programmer | Emerging Entrepreneur | AI/ML Explorer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "350" height = "400" />
