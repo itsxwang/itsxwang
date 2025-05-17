@@ -10,7 +10,7 @@
 
 - 💬 If you have work related to software like **Python, JavaScript(or TS), Html , Css , Git(Version Control)**, feel free to contact me
 
-- 📫 Reach me through **[xion36325@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=xion36325@gmail.com)**
+- 📫 Reach me through **[xion.dev7@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=xion.dev7@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
