@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/XionVolt](https://github.com/XionVolt)
 
-- 💬 If you have work related to **Python, JavaScript(or TS), Html , Css , Git(Version Control)**, feel free to contact me
+- 💬 If you have work related to software like **Python, JavaScript(or TS), Html , Css , Git(Version Control)**, feel free to contact me
 
-- 📫 How to reach me **xion36325@gmail.com**
+- 📫 Reach me through **xion36325@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
