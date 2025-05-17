@@ -2,17 +2,15 @@
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">Tech Enthusiast | Programmer | Emerging Entrepreneur | AI/ML Explorer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "350" height = "400" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xionvolt&label=Profile%20views&color=0e75b6&style=flat" alt="xionvolt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xionvolt&label=Profile%20views&color=0e75b6&style=flat" alt="xionwang" /> </p>
 
-- 🌱 I’m currently learning More about **Software Dev , Ai/Ml**
+- 🌱 Software Developer 
 
 - 👨‍💻 All of my projects are available at [https://github.com/XionVolt](https://github.com/XionVolt)
 
-- 💬 Ask me about **Python , JavaScript , Html , Css , Git & Much more...**
+- 💬 If you have work related to **Python, JavaScript(or TS), Html , Css , Git(Version Control)**, feel free to contact me
 
 - 📫 How to reach me **xion36325@gmail.com**
-
-- ⚡ Fun fact **I have so many crazy ideas, I might need a second brain to keep up with them! 🤯💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
