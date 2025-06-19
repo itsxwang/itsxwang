@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/XionVolt/XionVolt/blob/main/ced84adf18ce017d24cf12428d198ed5.jpg" height = "320" />
+<img align="right" src="https://github.com/itsxwang/itsxwang/blob/main/ced84adf18ce017d24cf12428d198ed5.jpg" height = "320" />
 <h1 align="center">Hi 👋, I'm Xion</h1>
 <h3 align="center">Tech Enthusiast | Programmer | Emerging Entrepreneur | AI/ML Explorer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  width = "350" height = "400" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xionvolt&label=Profile%20views&color=0e75b6&style=flat" alt="xionwang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsxwang&label=Profile%20views&color=0e75b6&style=flat" alt="xionwang" /> </p>
 
 - 🌱 Software Developer and AI/Ml Enthusiast
 
@@ -16,7 +16,7 @@
 <p align="left">
 <!-- <a href="https://twitter.com/xion_volt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xion_volt" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/xion._.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xion._.69" height="30" width="40" /></a> -->
-<a href="https://www.youtube.com/@XionVolt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xionvolt7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@XionWang7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="XionWang7" height="30" width="40" /></a>
 <a href="https://discord.gg/YXaGVnWXDx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YXaGVnWXDx" height="30" width="40" /></a>
 </p>
 
