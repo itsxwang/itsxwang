@@ -3,7 +3,7 @@
 
 <div align="center" style="font-size: 17px; line-height: 1.6; font-family: sans-serif;">
 
-  <p>🌱 <strong>Software Developer</strong> & <strong>AI/ML Enthusiast</strong></p>
+  <p>🌱 <strong>Web2</strong> & <strong>Web3</strong> developer</p>
 
   <p>👨‍💻 <strong>All of my projects</strong> are available right here on my GitHub</p>
 
