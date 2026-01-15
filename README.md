@@ -67,16 +67,10 @@
 
 # 📊 GitHub Stats
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=itsxwang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsxwang&theme=gruvbox&hide_border=false)
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsxwang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  
+![](https://github-readme-stats.vercel.app/api?username=@itsxwang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=@itsxwang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=@itsxwang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -96,7 +90,7 @@
 
 ## 💰 You can help me by Donating
 <div align="center">
-
+  
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xwang)
 
 </div>
