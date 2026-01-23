@@ -8,7 +8,7 @@
   <p>👨‍💻 <strong>All of my projects</strong> are available right here on my GitHub</p>
 
   <p>💬 <strong>Got software work?</strong> I can help with <br>
-     <code>Python</code> • <code>JavaScript/TypeScript</code> • <code>Web Dev</code> • <code>Version Control</code> • <code>Databases</code>
+     <code>JavaScript/TypeScript</code> • <code>Web/Web3 Dev</code> • <code>Python</code> • <code>Version Control</code> • <code>Databases</code> • <code>High Performance Computing</code> • <code>Rust</code> 
   </p>
 
   <p>📫 <strong>Contact:</strong> <a href="mailto:xion.dev7@gmail.com">xion.dev7@gmail.com</a></p>
