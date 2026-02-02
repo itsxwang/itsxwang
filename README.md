@@ -75,6 +75,18 @@
 </div>
 
 
+
+
+ <div align="center">
+ 
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Montserrat&preferLogin=false&Border=1B182800">
+    <img  alt="itsxwang's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/itsxwang?cardType=level&theme=tokyonight&fontFamily=Montserrat&preferLogin=false&Border=1B182800" />
+
+  </div>
+    
+  </a> 
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
 
